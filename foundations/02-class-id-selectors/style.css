@@ -14,3 +14,10 @@
     color: black;
     font-size: 60px;
 }
+
+#number4 {
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+    font-size: 55px;
+}
