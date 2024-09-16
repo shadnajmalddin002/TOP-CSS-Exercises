@@ -6,3 +6,8 @@
     background-color: black;
     color: white;
 }
+
+.no-click-me-button {
+    background-color: yellow;
+    color: black;
+}
