@@ -12,3 +12,11 @@ p {
     font-weight: 100;
     font-size: 25px;
 }
+
+button {
+    font-size: 25px;
+    color: black;
+    font-weight: 300;
+    background-color: orange;
+    border-color: white;
+}
