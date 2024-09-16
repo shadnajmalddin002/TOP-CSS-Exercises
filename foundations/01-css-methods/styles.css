@@ -5,3 +5,10 @@ div {
     font-size: 50px;
     font-weight: bold;
 }
+
+p {
+    background-color: green;
+    color: white;
+    font-weight: 100;
+    font-size: 25px;
+}
